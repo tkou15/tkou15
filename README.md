@@ -1,4 +1,13 @@
-### Hi there 👋
+### This is Koichi
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tkou15&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkou15&theme=dracula" />
+</a>
 
 <!--
 **tkou15/tkou15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
