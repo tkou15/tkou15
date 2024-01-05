@@ -4,6 +4,12 @@
 
 <img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react,next,swift,java,flutter,python,go,firebase,docker,gcp" /> <br /><br />
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkou15&layout=compact&show_icons=true&theme=dracula" />
+
+
+---
+<a href="https://trackgit.com">
+  <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lr09kkmn4b8h1ckfrwrl" alt="trackgit-views" />
+</a>
 <!--
 **tkou15/tkou15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
