@@ -1,11 +1,9 @@
-### This is Koichi
+# This is Koichi
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkou15&layout=compact&show_icons=true&theme=dracula" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tkou15&theme=dracula" />
-</p>
+## My Skills
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkou15&margin-w=5&theme=dracula)](https://github.com/tkou15/)
+<img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react,next,swift,java,flutter,python,go,firebase,docker,gcp" /> <br /><br />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkou15&layout=compact&show_icons=true&theme=dracula" />
 <!--
 **tkou15/tkou15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
