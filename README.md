@@ -1,8 +1,18 @@
 # This is Koichi
 
-## My Skills
+# My Skills
 
-<img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react,next,swift,java,flutter,python,go,firebase,docker,gcp" /> <br /><br />
+## Languages
+<img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,java,flutter,python,go" /> <br />
+
+## Libraries
+<img height="25" src="https://skillicons.dev/icons?i=angular,react,next,tailwind" /> <br />
+
+## Services
+<img height="25" src="https://skillicons.dev/icons?i=github,gitlab,jenkins,docker,gcp,firebase,figma,postman" /> 
+
+<br />
+
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkou15&layout=compact&show_icons=true&theme=dracula" />
 
 ## Credentials
