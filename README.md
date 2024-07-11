@@ -3,13 +3,13 @@
 # My Skills
 
 ## Languages
-<img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,java,flutter,python,go" /> <br />
+<img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,java,dart,python,go" /> <br />
 
-## Libraries
-<img height="25" src="https://skillicons.dev/icons?i=angular,react,next,tailwind" /> <br />
+## Libraries & Frameworks
+<img height="25" src="https://skillicons.dev/icons?i=flutter,angular,react,next,vue,nuxt,tailwind" /> <br />
 
 ## Services
-<img height="25" src="https://skillicons.dev/icons?i=github,gitlab,jenkins,docker,gcp,firebase,figma,postman" /> 
+<img height="25" src="https://skillicons.dev/icons?i=github,gitlab,jenkins,docker,gcp,firebase,supabase,figma,postman" /> 
 
 <br />
 
