@@ -16,6 +16,7 @@
 - <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Architect](https://google.accredible.com/8380b048-b3f3-4006-9656-cb56deabb111)
 - <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Developer](https://www.credly.com/badges/e00ff046-debf-4728-ab9d-55a3934daef9)
 - <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud DevOps Engineer](https://www.credly.com/badges/62a211de-79a6-4f08-a280-0995f810feae)
+- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Data Engineer]()
 
 <br />
 
