@@ -12,11 +12,11 @@
 <img height="25" src="https://skillicons.dev/icons?i=github,gitlab,jenkins,docker,gcp,firebase,supabase,figma,postman" /> 
 
 ## Certifications
-- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Associate Cloud Engineer](https://google.accredible.com/334967a4-de96-4a13-9a46-ca0f901e4fb3)
-- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Architect](https://google.accredible.com/8380b048-b3f3-4006-9656-cb56deabb111)
-- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Developer](https://www.credly.com/badges/e00ff046-debf-4728-ab9d-55a3934daef9)
-- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud DevOps Engineer](https://www.credly.com/badges/62a211de-79a6-4f08-a280-0995f810feae)
-- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Data Engineer]()
+- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Associate Cloud Engineer](https://www.credly.com/badges/920ed6a0-f288-4e12-8c8f-6457fb858b1d/public_url)
+- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Architect](https://www.credly.com/badges/43739615-6184-4f35-a4ab-9854e85343d6/public_url)
+- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Developer](https://www.credly.com/badges/e00ff046-debf-4728-ab9d-55a3934daef9/public_url)
+- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud DevOps Engineer](https://www.credly.com/badges/62a211de-79a6-4f08-a280-0995f810feae/public_url)
+- <img height="20" src="https://skillicons.dev/icons?i=gcp" /> Google Cloud Certified - [Professional Cloud Data Engineer](https://www.credly.com/badges/226cf87d-3731-4c20-b411-7e421f90be90/public_url)
 
 <br />
 
