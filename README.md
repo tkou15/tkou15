@@ -3,7 +3,7 @@
 # My Skills
 
 ## Languages
-<img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,java,dart,python,go" /> <br />
+<img height="25" src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,java,dart,python,go" />
 
 ## Libraries & Frameworks
 <img height="25" src="https://skillicons.dev/icons?i=flutter,angular,react,next,vue,nuxt,tailwind" />
